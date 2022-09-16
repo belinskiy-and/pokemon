@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poremon/static/css/main.7acaea2f.css",
+    "main.js": "/poremon/static/js/main.742a4f23.js",
+    "index.html": "/poremon/index.html",
+    "main.7acaea2f.css.map": "/poremon/static/css/main.7acaea2f.css.map",
+    "main.742a4f23.js.map": "/poremon/static/js/main.742a4f23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.742a4f23.js"
+  ]
+}
