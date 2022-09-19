@@ -7,9 +7,7 @@ export class App extends Component {
 
   state = {
     pokemonName: "",
-  };
-
-  
+  };  
 
   searchSubmit = (pokemonName) => {
       this.setState({pokemonName});    
